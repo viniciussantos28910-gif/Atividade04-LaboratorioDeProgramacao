@@ -1,0 +1,1 @@
+print(("dom", "seg", "ter", "qua", "qui", "sex", "sab")[-1])

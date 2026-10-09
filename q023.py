@@ -1,0 +1,1 @@
+print(f"total: {sum([float(input("Valor do gasto: ")) for i in range(int(input("N° de gastos: ")))])}")

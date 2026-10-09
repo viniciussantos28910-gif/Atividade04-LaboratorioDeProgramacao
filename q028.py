@@ -1,0 +1,1 @@
+print(sum((float(input("temperatura: ")) for i in range(4))))

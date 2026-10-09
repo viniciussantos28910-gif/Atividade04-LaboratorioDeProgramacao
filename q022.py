@@ -1,0 +1,1 @@
+print(max([float(input("Nota: ")) for i in range(int(input("N° de alunos: ")))]))

@@ -1,0 +1,1 @@
+print(len(["Tv","Celular","Banana","Bomba "]))
